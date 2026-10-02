@@ -10,7 +10,7 @@ I run **[Ignara](https://portofolio-five-theta-89.vercel.app/)**, a small studio
 `Next.js` `Express` `Prisma` `PostgreSQL` `pg-boss` `AssemblyAI` `OpenAI` `Fly.io` `Vercel` · [dialy.site](https://dialy.site)
 
 **[Skipscope](https://github.com/SaifTamer2010/skipscope)**: Skip-tracing and lead-data platform for real-estate investors, with a client portal and an internal ops dashboard.
-`Next.js` `Express` `Supabase/PostgreSQL` `Zod` `TOTP 2FA` `Slack API` · [skipscope.vercel.app](https://skipscope.vercel.app)
+`Next.js` `Express` `Supabase/PostgreSQL` `Zod` `TOTP 2FA` `Slack API` · [skipscope.com](https://skipscope.com)
 
 **[RAR Dashboard](https://github.com/SaifTamer2010/rar-dashboard)**: Multi-role operations dashboard for a cold-calling agency (admin, team lead, agent, business client) with realtime updates.
 `Next.js` `MongoDB` `Mongoose` `NextAuth` `Pusher` `Redux Toolkit` `Vitest` · [live](https://rar-dashboard-six.vercel.app)
